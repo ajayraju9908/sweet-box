@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919297115279",
+    "project_id": "t2xpro",
+    "storage_bucket": "t2xpro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919297115279:android:22776131215d03ec755cfa",
+        "android_client_info": {
+          "package_name": "com.example.mobile_otp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD604nopyDrHF_dNMMWMG-w44SkikSd-Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
